@@ -21,3 +21,8 @@ GoogleDrive上の"/content/drive/MyDrive/model/model_epoch_most.pth"に保存す
 3.GoogleのColaboratoryから"Hazumi_model.jpynb"を開く
 
 注意：ColaboratoryではランタイムをCPUからGPUに変更する必要があります
+
+# 最後に
+
+このモデルは学習初期段階です
+そのため、ラベルなどに改良を加えることで、モデルの精度を向上させていく予定です。
